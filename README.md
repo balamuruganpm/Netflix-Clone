@@ -1,6 +1,5 @@
 # Netflix Clone (On Going) LIVE
-
-> [LIVE DEMO LINK](https://netflixcloness.netlify.app/)
+<a href="https://netflixcloness.netlify.app/"><img src="1691213796949.png"></a>
 
 
 ### Declaimer

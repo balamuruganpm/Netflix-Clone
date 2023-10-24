@@ -1,6 +1,7 @@
 # Netflix Clone (On Going) LIVE
-<a href="https://netflixcloness.netlify.app/"><img src="1691213796949.png"></a>
+<a href="https://netflixcloness.netlify.app/"><img src="1691213796949.png" width="100"></a>
 
+# my 1st project omly view of desktop.
 
 ### Declaimer
 
